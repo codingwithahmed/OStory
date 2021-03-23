@@ -8,8 +8,7 @@
 
 
 
-
-
+<button data-toggle = "collapse" data-target="#create-post" value="create-post" class="btn btn-dark" >create-post </button>
 <div class="collapse" id = "create-post">
 
 <div class="jumbotron">
